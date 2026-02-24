@@ -110,11 +110,12 @@ class BmiPage extends StatelessWidget {
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(15),
                           ),
-                          backgroundColor: Colors.teal,
+                          backgroundColor: Colors.black,
                         ),
                         child: const Text(
                           "Calculate BMI",
                           style: TextStyle(
+                            color: Colors.white,
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
                           ),
