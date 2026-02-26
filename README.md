@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-file:///Users/admin/Desktop/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-02-24%20at%2014.18.05.png
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52143641-6bfc-4e9e-8601-4c171b83eb49" />
